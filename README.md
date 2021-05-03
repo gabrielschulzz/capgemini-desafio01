@@ -15,7 +15,14 @@ A agência Divulga Tudo precisa de um programa para gerenciar os seus anúncios 
 # Instalacao
 
 - Para executar o programa, necessaria a instalacao do [Node.](https://nodejs.org/en/)
-- Apos isso executar o comando na raiz do projeto.
+
+- Apos isso executar o comando na raiz do projeto para instalar as dependencias.
+
+```bash
+npm install
+```
+
+- Com as dependencias instaladas execute este comando para rodar o projeto.
 
 ```bash
 node calculadora.js
